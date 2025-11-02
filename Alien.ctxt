@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Alien
+comment1.params=
+comment1.target=Alien()
+comment2.params=x\ y\ w\ h\ s\ u
+comment2.target=Alien(int,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=void\ mover()
+comment4.params=direction
+comment4.target=void\ move(int)
+comment5.params=window
+comment5.target=void\ draw(java.awt.Graphics)
+numComments=6
